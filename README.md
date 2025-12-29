@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hallooooo! It's your average 15yo programmer/furry who can make Minecraft stuff ish?
+Hallooooo! It's your average 17yo programmer/furry who can make Minecraft stuff ish?
 Languages: C++, Python, Java, JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeetBot3736&show_icons=true&theme=tokyonight&border_radius=10)]()
